@@ -29,3 +29,15 @@ main :is(.intro-split, .content-depth, .faq, .legal-section, .card-copy, .resour
 @media(min-width:1101px) and (max-height:600px) {
   .play-layout { max-width: 100%; }
 }
+
+.compatibility-lookup{margin:24px 0}.compatibility-lookup h3{margin-bottom:10px}.compatibility-search-button{min-height:44px;width:100%;margin-top:12px;border-radius:10px;background:var(--pink);color:#211313;font-weight:700}.compatibility-lookup .notice p{margin:10px 0}
+
+/* 移动网页版更新说明与操作示意图。 */
+.touch-map { margin: 0; min-width: 0; }
+.touch-map svg { display: block; width: 100%; height: auto; }
+.touch-map figcaption { padding: 10px 0; color: var(--muted); font-size: 12px; }
+.mobile-update .control-reference>div { grid-template-columns: 28px minmax(0,1fr); }
+.mobile-update .control-reference>div>svg { width: 24px; color: var(--pink); }
+.mobile-verification { margin-top: 22px; }
+.mobile-verification summary { min-height: 44px; }
+.mobile-verification p { margin: 16px 0 0; }

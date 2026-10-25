@@ -1,5 +1,5 @@
 {
-  "name": "odioelchocolate-games",
+  "name": "odioelchocolate",
   "compatibility_date": "2026-10-01",
   "assets": {"directory": ".", "html_handling": "force-trailing-slash", "not_found_handling": "404-page"}
 }
