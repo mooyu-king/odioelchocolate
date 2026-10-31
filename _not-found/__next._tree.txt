@@ -1,6 +1,6 @@
-:HL["/_next/static/css/9f86a10827a40800.css","style"]
+:HL["/_next/static/css/e2c09e958c13304a.css","style"]
 :HL["/_next/static/css/4c82774df443f888.css","style"]
 :HL["/logo.svg","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
-0:{"b":"i5kIGGmVdSwGQ_FWW1Hdu","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"AG6NJX0oEeQezzwSPOs54","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

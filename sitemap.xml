@@ -1,8 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url>
+<loc>https://odioelchocolate.games/es/cobb-can-move/</loc>
+<xhtml:link rel="alternate" hreflang="es" href="https://odioelchocolate.games/es/cobb-can-move/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://odioelchocolate.games/cobb-can-move/" />
+<lastmod>2026-10-31</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://odioelchocolate.games/cobb-can-move/</loc>
+<xhtml:link rel="alternate" hreflang="es" href="https://odioelchocolate.games/es/cobb-can-move/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://odioelchocolate.games/cobb-can-move/" />
+<lastmod>2026-10-31</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://odioelchocolate.games/es/trees-hate-you/</loc>
+<xhtml:link rel="alternate" hreflang="es" href="https://odioelchocolate.games/es/trees-hate-you/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://odioelchocolate.games/trees-hate-you/" />
+<lastmod>2026-10-31</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://odioelchocolate.games/trees-hate-you/</loc>
+<xhtml:link rel="alternate" hreflang="es" href="https://odioelchocolate.games/es/trees-hate-you/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://odioelchocolate.games/trees-hate-you/" />
+<lastmod>2026-10-31</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://odioelchocolate.games/es/frankies-fun-house/</loc>
+<xhtml:link rel="alternate" hreflang="es" href="https://odioelchocolate.games/es/frankies-fun-house/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://odioelchocolate.games/frankies-fun-house/" />
+<lastmod>2026-10-31</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://odioelchocolate.games/frankies-fun-house/</loc>
+<xhtml:link rel="alternate" hreflang="es" href="https://odioelchocolate.games/es/frankies-fun-house/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://odioelchocolate.games/frankies-fun-house/" />
+<lastmod>2026-10-31</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://odioelchocolate.games/es/you-are-hamster/</loc>
+<xhtml:link rel="alternate" hreflang="es" href="https://odioelchocolate.games/es/you-are-hamster/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://odioelchocolate.games/you-are-hamster/" />
+<lastmod>2026-10-31</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
 <url>
 <loc>https://odioelchocolate.games/you-are-hamster/</loc>
-<lastmod>2026-10-25</lastmod>
+<xhtml:link rel="alternate" hreflang="es" href="https://odioelchocolate.games/es/you-are-hamster/" />
+<xhtml:link rel="alternate" hreflang="en" href="https://odioelchocolate.games/you-are-hamster/" />
+<lastmod>2026-10-31</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
