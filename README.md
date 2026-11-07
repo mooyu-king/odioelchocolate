@@ -1,36 +1,61 @@
 # Odio el Chocolate Games
 
-![Odio el Chocolate](media/cover.webp)
+[Visit Odio el Chocolate Games](https://odioelchocolate.games/)
 
-**Explora la escuela, encuentra los chocolates y prepara tu próxima partida.**
+## Explore the Website
 
-[Odio el Chocolate Games](https://odioelchocolate.games/) reúne una versión de navegador del juego, guías visuales y enlaces a las publicaciones originales de Wantho. El sitio está disponible en español e inglés y organiza la información para que puedas pasar de la primera partida a una búsqueda más preparada.
+Hosted at s.odioelchocolate.games · Touch joystick and buttons available. Not yet tested on physical Android phones; the initial download is large.
 
-## Descubre el sitio
+![Odio el Chocolate cover](./media/cover.webp)
 
-- **[Jugar en el navegador](https://odioelchocolate.games/):** abre el juego, consulta la ayuda inicial y encuentra vídeos para conocer su ambiente.
-- **[Cómo jugar](https://odioelchocolate.games/como-jugar/):** revisa los controles, aprende a leer el contador y el inventario, y practica con una lista de comprobación interactiva.
-- **[Modos de juego](https://odioelchocolate.games/modos/):** conoce Main, Low Cortisol, Baltazar y Triple Trouble, y utiliza un registro manual para organizar tu búsqueda.
-- **[Descargas originales](https://odioelchocolate.games/descargar/):** encuentra las publicaciones de Windows y Android, con orientación para preparar los archivos y empezar.
-- **[Ayuda para Android](https://odioelchocolate.games/android/):** compara la aplicación nativa con el sitio instalado y consulta información sobre arquitectura, instalación y problemas de funcionamiento.
-- **[Versión en inglés](https://odioelchocolate.games/en/):** explora las mismas secciones en inglés.
+Odio el Chocolate—also searched as odioelchocolate—mixes the school-horror setting of a Baldi’s Basics mod with absurd humor. Wantho is the author of the published Windows and Android releases.
 
-## Guías con imágenes y referencias
+![Odio el Chocolate corridor reference](./media/locker-hall.webp)
 
-Las explicaciones combinan capturas del juego, pasos breves, preguntas desplegables y enlaces a sus fuentes. Los consejos distinguen entre lo que muestran los menús, las recomendaciones de práctica y las características que todavía necesitan comprobarse en cada versión. El contador puede variar según la fase: sigue siempre las indicaciones de tu partida.
+The browser host describes searching for chocolates through classrooms and corridors. Always check your edition’s instructions: we do not publish unverified routes or character behaviors.
 
-![Pasillo de la edición PC, galería de Wantho](media/locker-hall.webp)
+![Odio el Chocolate menu reference](./media/menu.webp)
 
-## Una experiencia para consultar a tu ritmo
+These improvements apply to our web edition, not Wantho’s original APK. Stability and performance on physical Android phones still need validation; we do not promise crash-free play on every device.
 
-El sitio adapta su distribución a pantallas de ordenador y móvil. Para la edición de navegador se recomiendan teclado y ratón; sus controles táctiles no están verificados. La edición Android de Wantho es una descarga independiente. Instalar el sitio como acceso directo no instala ese APK ni añade controles al juego.
+Your task is not to memorize a story paragraph: it is to understand your mode, search the school and keep your next move clear. Main’s menu combines two tasks: collect 13 chocolates and get out. Reaching the target count does not replace any exit instructions that follow.
 
-El juego externo y los vídeos necesitan conexión a Internet. Las listas del sitio son ayudas manuales: no leen ni modifican una partida guardada.
+The title means “I hate chocolate,” yet chocolate is central to the search. Its scenes combine classrooms, corridors, exaggerated characters and visual jokes. If a video brought you here, learn the screen indicators before trying to imitate a fast run.
 
-## Sobre este proyecto
+Group your search into areas: entrance, first corridor and connected rooms. This organizes exploration; it is not an official map. As you leave a room, remember which doorway you just checked.
 
-Odio el Chocolate Games es un sitio independiente de fans, sin afiliación a Wantho ni a los creadores de Baldi’s Basics. El juego, sus personajes y sus imágenes pertenecen a sus respectivos titulares. Las capturas proceden de las publicaciones de Wantho y de odioelchocolate.org, con referencias en las páginas correspondientes.
+Use the HUD number as your confirmation. A click and a nearby-looking object are not enough to establish a pickup. Our website checklist helps you record progress, but never reads or changes the game.
 
-[Sobre nosotros](https://odioelchocolate.games/acerca-de/) · [Contacto](https://odioelchocolate.games/contacto/) · [Privacidad](https://odioelchocolate.games/privacidad/) · [Términos de uso](https://odioelchocolate.games/terminos/)
+Before moving away, identify a landmark and the turn back. In Main, stay attentive after the last chocolate: follow your edition’s exit objective. A screenshot or a checklist with 13 marks is not a win.
 
-Contacto: [mooyuking@gmail.com](mailto:mooyuking@gmail.com)
+The web edition includes a joystick, swipe turning and touch buttons. These have been tested in browser emulation, but not yet on physical Android phones. The Android edition is a separate download and the author warns of issues on some devices.
+
+The game downloads external resources when started. A slow network, limited memory or browser restrictions can stop loading. Try the direct link or check the original downloads.
+
+## Plan Your Visit
+
+Images show counters of 3 and 13. Targets can change by stage; reaching 3/3 does not establish completion. Follow your edition’s counter and exit instructions. This site’s checklist is manual and adjustable.
+
+No. Installation creates a shortcut and allows website content to be cached; the external game and videos still require Internet.
+
+## Choose the right guide
+
+The website provides Spanish and English sections so that you can read the guidance in the language you prefer. Begin with the homepage for the player and a short introduction, then move to the how to play section when you need more context. The modes section helps distinguish the options shown by the game. Original download references and Android information are separate topics, allowing visitors to compare editions without confusing a browser session with the author's native release.
+
+Main, Low Cortisol, Baltazar and Triple Trouble appear in the site's mode guidance. Treat their names as a reason to check the relevant explanation, not as proof that every version contains identical behavior. The menu in your current edition is the practical reference when choosing how to play. If a screenshot and your own screen disagree, follow the current game instructions and avoid assuming that a route from another version will work unchanged.
+
+## Use the tracker honestly
+
+The chocolate tracker is a manual aid for organizing a search. Marking an item records your own observation; it does not collect a chocolate, unlock an exit or change a save. This distinction is especially important if you switch modes or adjust the target count. Use the counter inside the game to confirm actual progress, and use the website record only to help remember what you have checked.
+
+For a first attempt, keep your plan small. Identify the room you entered, inspect it, and remember the way back before moving to the next area. This is an editorial practice suggestion rather than a verified winning route. The point is to reduce confusion, not to promise safety from every character. The school setting and humor can make a scene look familiar while the active mode changes what you need to do next.
+
+## Understand the pictures
+
+The gallery uses existing game images, including a cover, a school corridor and a menu view. Images associated with an original release are references to that release, not proof of current mobile performance. Counters, controls and presentation may differ between images. Look at the accompanying page context before treating one picture as a complete description of the version you are playing.
+
+Odio el Chocolate Games is an independent fan website. It is not Wantho's official publication channel and is not affiliated with the creators of Baldi's Basics. Game names, characters and artwork remain associated with their respective owners. The site's purpose is to put play, reading and edition information within reach while making the limits clear. Return to the homepage to start a session, or use the English section if you want to continue reading in English.
+
+## Visit Online
+
+[Open Odio el Chocolate Games](https://odioelchocolate.games/) to explore the website and choose your next activity.
