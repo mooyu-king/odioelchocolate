@@ -1,7 +1,7 @@
 :HL["/_next/static/css/4c82774df443f888.css","style"]
-:HL["/_next/static/css/e2c09e958c13304a.css","style"]
+:HL["/_next/static/css/3ab9a7b5498b4e11.css","style"]
 :HL["/logo.svg","image"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"about","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"en","h":112,"c":"$Q2"}]]
-0:{"b":"8hl0EbVxTVpKoNIn3nGy5","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"iBmSuSR4PjRQqPFRV6a1S","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
